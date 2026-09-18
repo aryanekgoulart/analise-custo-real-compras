@@ -134,8 +134,3 @@ A solução substituiu a dependência de cálculos registrados apenas em fichas 
 - automação de processos manuais;
 - validação de cálculos e qualidade dos dados;
 - comunicação entre áreas de negócio e tecnologia.
-
-## Autora
-
-**Aryane K. Goulart**  
-Profissional de TI com atuação em Dados, BI, processos e ERP Sankhya.
